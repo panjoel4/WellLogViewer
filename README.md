@@ -17,7 +17,7 @@ Copy the LogViewer.py file to your working directory and then import the file to
 ## User Guide
 View the [online documentation](https://github.com/panjoel4/WellLogViewer/tree/master/User%20Guide)
 
-<pre><code><span style="color:red">from </span> LogViewer import *
+<pre><code>from LogViewer import *
 
-wells=lasViewer('yourwell.las') #Use the las
+wells=lasViewer('yourwell.las') #Load las file
 </code></pre>
