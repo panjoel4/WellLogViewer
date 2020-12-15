@@ -6,7 +6,7 @@ This is a package for you to visualize your well log data (LAS file). If you are
 
 
 ## Requirements
--[lasio](https://lasio.readthedocs.io/en/latest/installation.html) /n
+-[lasio](https://lasio.readthedocs.io/en/latest/installation.html) <br/>
 -[bokeh](https://bokeh.org/)
 -[numpy](https://numpy.org/)
 
