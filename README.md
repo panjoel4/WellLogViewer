@@ -14,10 +14,12 @@ This is a package for you to visualize your well log data (LAS file). If you are
 ## How to use
 Copy the LogViewer.py file to your working directory and then import the file to your code.
 
-## User Guide
-View the [online documentation](https://github.com/panjoel4/WellLogViewer/tree/master/User%20Guide)
-
 <pre><code>from LogViewer import *
 
 wells=lasViewer('yourwell.las') #Load las file
 </code></pre>
+
+## User Guide
+View the [online documentation](https://github.com/panjoel4/WellLogViewer/tree/master/User%20Guide)
+
+
