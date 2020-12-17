@@ -22,4 +22,5 @@ wells=lasViewer('yourwell.las') #Load las file
 ## User Guide
 View the [online documentation](https://github.com/panjoel4/WellLogViewer/tree/master/User%20Guide)
 
-
+## Output Samples
+The ipynb files could not load the html produced by the code, however you could see the actual output of the codes at [files](https://github.com/panjoel4/WellLogViewer/tree/master/Files) folder.
