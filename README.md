@@ -1,7 +1,7 @@
 # Well Log Viewer
-This is a package for you to visualize your well log data. This could visualize your log data from LAS file or other ASCII format. If you are new in python and would like to have a good tools to visualize your well log or just simply too lazy to write a code, this might be useful for you. Reads the las files using [lasio](https://lasio.readthedocs.io/en/latest/installation.html) and visualizes using [bokeh](https://bokeh.org/). 
+This is a package is created to help you visualize well log data. This could visualize the log data from LAS file or any other ASCII format. If you are new in python and would like to have a good tools to visualize your well log or just simply too lazy to write a code, this might be useful for you. This package reads the las files using [lasio](https://lasio.readthedocs.io/en/latest/installation.html) and visualizes using [bokeh](https://bokeh.org/) and visulaize the other by transforming the file to pandas dataframe format. 
 
-I will keep updating this package day to day, please keep checking. Next update will include the visualization of lithology, formation well top and finally wrap the package at pip so you can easily use this in the future by installing the pip instead of copying or downloading the py file. If any of you want to fork this repository I kindly appreciate that.
+I will keep updating this package day to day, please kindly keep tracking. Next update will include the visualization of lithology, formation well top and finally wrap the package at pip so you can easily use this in the future by installing the pip instead of copying or downloading the py file. If any of you want to fork this repository I kindly appreciate that.
 
 
 ![alt text](https://github.com/panjoel4/WellLogViewer/blob/master/Files/image.png?raw=true)
