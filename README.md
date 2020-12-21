@@ -11,7 +11,7 @@ I will keep updating this package day to day, please kindly keep tracking. Next 
 - [lasio](https://lasio.readthedocs.io/en/latest/installation.html) <br/>
 - [bokeh](https://bokeh.org/) <br/>
 - [numpy](https://numpy.org/) <br/>
-
+- [pandas](https://pandas.pydata.org/docs/) <br/>
 
 ## How to use
 Copy the LogViewer.py file to your working directory and then import the file to your code.
